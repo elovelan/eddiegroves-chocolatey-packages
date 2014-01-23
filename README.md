@@ -1,3 +1,3 @@
-Chocolatey packages that created by Eddie Groves.
+These icons are stored here for use by the Chocolatey gallery.
 
-Icons are stored in the GitHub Pages branch.
+All files are copyright their respective authors.
